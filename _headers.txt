@@ -1,0 +1,8 @@
+# Custom headers
+/path/to/page.jsx
+  X-Custom-Header: Value
+  Cache-Control: max-age=3600
+
+# Global headers
+/*
+  X-Global-Header: Global Value
